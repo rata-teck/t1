@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 't1';
+  s1 = 'TypeScript';
+  s2 = 'JavaScript';
+  s3 = 'Cuento con variables a prueba de pndejos';
+  s4 = 'No me hagam sumar 1 + "1" que me da amsiedad';
 }
